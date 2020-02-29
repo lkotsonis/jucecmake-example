@@ -1,0 +1,3 @@
+[submodule "third_party/juce-cmake"]
+	path = third_party/juce-cmake
+	url = https://github.com/remymuller/juce-cmake.git
